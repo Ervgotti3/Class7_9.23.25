@@ -1,5 +1,0 @@
-topic = terraform, week 2: vpc and contd
-
-last week -success aws via terraform
-
-this week = build the extras withing the vpc
