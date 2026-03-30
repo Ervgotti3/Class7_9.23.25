@@ -1,0 +1,50 @@
+class 7 (1/20/25) - Tuesday
+week 19 (Armageddon wk 3): student led working sessions
+
+**** deadline for Class 7 Armageddon submissions: 2/3/26 ****
+
+Armageddon repo: https://github.com/BalericaAI/armageddon/tree/main/SEIR_Foundations
+
+Class 7 must do:
+- Lab 1, all the way to bonus F 
+- Lab 2, all the way to be BAM B 
+- Lab 3a and 3b
+* the further you go in the labs, the more work ready you become
+
+Any students who were designated as Single A:
+- Single A Armageddon FIRST
+- Class 7 Armageddon SECOND
+* if a student is in Single A, does not complete the Single A Armageddon, and attempts only the Class 7 Armageddon, they will not receive credit for their Class 7 Armageddon contributions.
+
+Any students who also did GCP:
+- Above + Lab 4
+
+Any students who were able to complete Labs 1-4
+- Lab 5 (red team labs)
+Notes:
+- only repos are allowed for submissions
+- heavily suggested to make submissions within a group
+- individual submissions are accepted, but success/progress is unlikely for most
+- if code from "repo A" is pirated without attribution/credit and presented in "repo B" as a complete repo for submission, the creators of "repo A" and "repo B" will both be marked as a failure and not accepted for critique
+8:12 PM
+
+vm
+
+vince mclean
+Looks like class today is working on 2B I might have to leave class and re watch that another time being that I only finished one and I'm gonna start working on 1C either later tonight for tomorrow
+42m
+
+Davey Wheeling
+Also when doing clickops when you ssh inside instance run: sudo yum install amazon-cloudwatch-agent -y
+
+DW
+
+So when you create your ec2 instance in terraform create a separate file that would install cloudwatch agent on your ec2. Reference it in your user data
+40m
+
+DW
+
+Davey Wheeling
+This is a good read to get ideas when installing cloudwatch agent on the ec2, along with having the logs being sent to CloudWatch Log groups and doing this in terraform.
+https://medium.com/@AaronLJ/terraform-aws-setting-up-cloudwatch-agents-with-terraform-1c0052dd90ea
+

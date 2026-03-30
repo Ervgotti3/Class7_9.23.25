@@ -1,1 +1,0 @@
-This week homework assignment is focused on each class sessions
